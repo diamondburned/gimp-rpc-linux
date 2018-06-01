@@ -13,4 +13,4 @@ GIMP Rich Presence support on Linux!
   - Ubuntu/Debian: `sudo apt install wmctrl`
 
 ### Screenshot
-<img src="http://u.cubeupload.com/diamondburned/i40xWJ.png" width="850" height=auto />
+<img src="http://u.cubeupload.com/diamondburned/i40xWJ.png" width="850" height="450" />
