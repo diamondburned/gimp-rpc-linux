@@ -11,3 +11,6 @@ GIMP Rich Presence support on Linux!
 - Installing `wmctrl`: 
   - Arch: `sudo pacman -S wmctrl`
   - Ubuntu/Debian: `sudo apt install wmctrl`
+
+### Screenshot
+![Screenshot](http://u.cubeupload.com/diamondburned/i40xWJ.png)
